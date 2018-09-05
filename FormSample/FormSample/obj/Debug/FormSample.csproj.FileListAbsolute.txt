@@ -1,0 +1,11 @@
+c:\users\user\source\repos\FormSample\FormSample\bin\Debug\FormSample.exe.config
+c:\users\user\source\repos\FormSample\FormSample\bin\Debug\FormSample.exe
+c:\users\user\source\repos\FormSample\FormSample\bin\Debug\FormSample.pdb
+c:\users\user\source\repos\FormSample\FormSample\obj\Debug\FormSample.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\FormSample\FormSample\obj\Debug\FormSample.Form1.resources
+c:\users\user\source\repos\FormSample\FormSample\obj\Debug\FormSample.Properties.Resources.resources
+c:\users\user\source\repos\FormSample\FormSample\obj\Debug\FormSample.csproj.GenerateResource.Cache
+c:\users\user\source\repos\FormSample\FormSample\obj\Debug\FormSample.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\FormSample\FormSample\obj\Debug\FormSample.exe
+c:\users\user\source\repos\FormSample\FormSample\obj\Debug\FormSample.pdb
+c:\users\user\source\repos\FormSample\FormSample\obj\Debug\FormSample.UserControl1.resources
